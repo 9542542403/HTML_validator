@@ -7,13 +7,11 @@
   <link href="css/main.css" rel="stylesheet">
   </head>
   <body>
-    
     <header>
       <h1>Validation</h1>
     </header>
-    
     <main>
-      <p_class="thing">This is text</p>
+      <p class="thing">This is text</p>
      </main>
    
  </body
