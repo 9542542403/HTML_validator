@@ -1,5 +1,3 @@
-
-
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
@@ -14,5 +12,5 @@
       <p class="thing">This is text</p>
      </main>
    
- </body
+ </body>
  </html>
